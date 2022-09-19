@@ -6,20 +6,20 @@ Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) Front-End Eğitim
 
 Öncelikle projeyi clonelayın. Proje linki için [tıklayınız] (https://github.com/EnsarPatika/kodluyoruzilkrepo)
 
-'''
+```
 git clone https://github.com/EnsarPatika/kodluyoruzilkrepo
+```
 
-'''
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız
 
-'''
+```
 cd Git Deneme
 code .
 
-'''
+```
 
 ## Constributing
 
